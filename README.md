@@ -1,5 +1,11 @@
-Sequence Autoencoder with UJI Pen Characters Dataset 
+Sequence Autoencoder with UJI Pen Characters Dataset
 =====
+
+## Usage
+``` sh
+$ unzip dataset_npz.zip
+$ python run.py
+```
 
 ## Dataset
 <div align="center">
