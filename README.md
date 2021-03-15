@@ -35,5 +35,5 @@ Sequence Autoencoder with UJI Pen Characters Dataset
 
 
 ## Reference
-[1] Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+[1] Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.  
 [2] DeVries, Terrance, and Graham W. Taylor. <a href="https://arxiv.org/abs/1702.05538">"Dataset augmentation in feature space."</a> arXiv preprint arXiv:1702.05538 (2017).
