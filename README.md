@@ -4,7 +4,6 @@ Unofficial TensorFlow implementation of Sequence Autoencoder with UJI Pen Charac
 The Keras implementation is provided as the following link.
 https://github.com/kjm1559/lstm_autoencoder
 
-The overall procedure for calculating the final output is presented in Algorithm 1.
 ## Usage
 ``` sh
 $ unzip dataset_npz.zip
