@@ -1,7 +1,7 @@
 Sequence Autoencoder with UJI Pen Characters Dataset
 =====
-Unofficial TensorFlow implementation of Sequence Autoencoder with UJI Pen Characters Dataset.
-The Keras implementation is provided as the following link.
+Unofficial TensorFlow implementation of Sequence Autoencoder with UJI Pen Characters Dataset.  
+The Keras implementation is provided as the following link.  
 https://github.com/kjm1559/lstm_autoencoder
 
 ## Usage
